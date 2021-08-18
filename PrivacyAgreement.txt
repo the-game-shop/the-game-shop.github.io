@@ -1,0 +1,1196 @@
+{\rtf1\ansi\ansicpg949\cocoartf2580
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fnil\fcharset129 AppleSDGothicNeo-Bold;\f2\fswiss\fcharset0 Helvetica;
+\f3\fnil\fcharset129 AppleSDGothicNeo-Regular;\f4\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red100\green100\blue100;\red255\green255\blue255;\red38\green38\blue38;
+}
+{\*\expandedcolortbl;;\cssrgb\c46667\c46667\c46667;\cssrgb\c100000\c100000\c100000;\cssrgb\c20000\c20000\c20000;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28820\viewh24660\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\b\fs30 \cf2 \cb3 \expnd0\expndtw0\kerning0
+1. 
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f0  
+\f1 \'c3\'b3\'b8\'ae
+\f0  
+\f1 \'b8\'f1\'c0\'fb
+\f2\b0  'The Game Shop'
+\f3 \'c0\'c7
+\f2  
+\f3 \'be\'ee\'c7\'c3\'b8\'ae\'c4\'c9\'c0\'cc\'bc\'c7\'c0\'ba
+\f2  
+\f3 \'b4\'d9\'c0\'bd\'c0\'c7
+\f2  
+\f3 \'b8\'f1\'c0\'fb\'c0\'bb
+\f2  
+\f3 \'c0\'a7\'c7\'cf\'bf\'a9
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b8\'a6
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'c0\'b8\'b8\'e7
+\f2 , 
+\f3 \'b4\'d9\'c0\'bd\'c0\'c7
+\f2  
+\f3 \'b8\'f1\'c0\'fb
+\f2  
+\f3 \'c0\'cc\'bf\'dc\'c0\'c7
+\f2  
+\f3 \'bf\'eb\'b5\'b5\'b7\'ce\'b4\'c2
+\f2  
+\f3 \'c0\'cc\'bf\'eb\'c7\'cf\'c1\'f6
+\f2  
+\f3 \'be\'ca\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+- 
+\f3 \'b0\'ed\'b0\'b4
+\f2  
+\f3 \'b0\'a1\'c0\'d4\'c0\'c7\'bb\'e7
+\f2  
+\f3 \'c8\'ae\'c0\'ce
+\f2 , 
+\f3 \'b0\'ed\'b0\'b4\'bf\'a1
+\f2  
+\f3 \'b4\'eb\'c7\'d1
+\f2  
+\f3 \'bc\'ad\'ba\'f1\'bd\'ba
+\f2  
+\f3 \'c1\'a6\'b0\'f8\'bf\'a1
+\f2  
+\f3 \'b5\'fb\'b8\'a5
+\f2  
+\f3 \'ba\'bb\'c0\'ce
+\f2  
+\f3 \'bd\'c4\'ba\'b0
+\f2 .
+\f3 \'c0\'ce\'c1\'f5
+\f2 , 
+\f3 \'c8\'b8\'bf\'f8\'c0\'da\'b0\'dd
+\f2  
+\f3 \'c0\'af\'c1\'f6
+\f2 .
+\f3 \'b0\'fc\'b8\'ae
+\f2 , 
+\f3 \'b9\'b0\'c7\'b0
+\f2  
+\f3 \'b6\'c7\'b4\'c2
+\f2  
+\f3 \'bc\'ad\'ba\'f1\'bd\'ba
+\f2  
+\f3 \'b0\'f8\'b1\'de\'bf\'a1
+\f2  
+\f3 \'b5\'fb\'b8\'a5
+\f2  
+\f3 \'b1\'dd\'be\'d7
+\f2  
+\f3 \'b0\'e1\'c1\'a6
+\f2 , 
+\f3 \'b9\'b0\'c7\'b0
+\f2  
+\f3 \'b6\'c7\'b4\'c2
+\f2  
+\f3 \'bc\'ad\'ba\'f1\'bd\'ba\'c0\'c7
+\f2  
+\f3 \'b0\'f8\'b1\'de
+\f2 .
+\f3 \'b9\'e8\'bc\'db
+\f2  
+\f3 \'b5\'ee
+\f2 \
+\uc0\u8203 \
+\uc0\u8203 \
+
+\f0\b 2. 
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f0  
+\f1 \'c3\'b3\'b8\'ae
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'ba\'b8\'c0\'af
+\f0  
+\f1 \'b1\'e2\'b0\'a3
+\f2\b0 \
+\uc0\u8203 \
+
+\f3 \'a8\'e7
+\f2  'The Game Shop'
+\f3 \'c0\'c7
+\f2  
+\f3 \'be\'ee\'c7\'c3\'b8\'ae\'c4\'c9\'c0\'cc\'bc\'c7\'c0\'ba
+\f2  
+\f3 \'c1\'a4\'ba\'b8\'c1\'d6\'c3\'bc\'b7\'ce\'ba\'ce\'c5\'cd
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b8\'a6
+\f2  
+\f3 \'bc\'f6\'c1\'fd\'c7\'d2
+\f2  
+\f3 \'b6\'a7
+\f2  
+\f3 \'b5\'bf\'c0\'c7
+\f2  
+\f3 \'b9\'de\'c0\'ba
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'ba\'b8\'c0\'af
+\f2 \uc0\u8228 
+\f3 \'c0\'cc\'bf\'eb\'b1\'e2\'b0\'a3
+\f2  
+\f3 \'b6\'c7\'b4\'c2
+\f2  
+\f3 \'b9\'fd\'b7\'c9\'bf\'a1
+\f2  
+\f3 \'b5\'fb\'b8\'a5
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'ba\'b8\'c0\'af
+\f2 \uc0\u8228 
+\f3 \'c0\'cc\'bf\'eb\'b1\'e2\'b0\'a3
+\f2  
+\f3 \'b3\'bb\'bf\'a1\'bc\'ad
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b8\'a6
+\f2  
+\f3 \'c3\'b3\'b8\'ae
+\f2 \uc0\u8228 
+\f3 \'ba\'b8\'c0\'af\'c7\'d5\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+
+\f3 \'a8\'e8
+\f2  
+\f3 \'b1\'b8\'c3\'bc\'c0\'fb\'c0\'ce
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'c3\'b3\'b8\'ae
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'ba\'b8\'c0\'af
+\f2  
+\f3 \'b1\'e2\'b0\'a3\'c0\'ba
+\f2  
+\f3 \'b4\'d9\'c0\'bd\'b0\'fa
+\f2  
+\f3 \'b0\'b0\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+
+\f3 \'a2\'d1
+\f2  
+\f3 \'be\'c6\'b7\'a1
+\f2  
+\f3 \'bf\'b9\'bd\'c3\'b8\'a6
+\f2  
+\f3 \'c2\'fc\'b0\'ed\'c7\'cf\'bf\'a9
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'be\'f7\'b9\'ab\'bf\'cd
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'be\'f7\'b9\'ab\'bf\'a1
+\f2  
+\f3 \'b4\'eb\'c7\'d1
+\f2  
+\f3 \'ba\'b8\'c0\'af\'b1\'e2\'b0\'a3
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'b0\'fc\'b7\'c3
+\f2  
+\f3 \'b9\'fd\'b7\'c9
+\f2 , 
+\f3 \'b1\'d9\'b0\'c5
+\f2  
+\f3 \'b5\'ee\'c0\'bb
+\f2  
+\f3 \'b1\'e2\'c0\'e7\'c7\'d5\'b4\'cf\'b4\'d9
+\f2 .\
+(
+\f3 \'bf\'b9\'bd\'c3
+\f2 )- 
+\f3 \'b0\'ed\'b0\'b4
+\f2  
+\f3 \'b0\'a1\'c0\'d4
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'b0\'fc\'b8\'ae
+\f2  : 
+\f3 \'bc\'ad\'ba\'f1\'bd\'ba
+\f2  
+\f3 \'c0\'cc\'bf\'eb\'b0\'e8\'be\'e0
+\f2  
+\f3 \'b6\'c7\'b4\'c2
+\f2  
+\f3 \'c8\'b8\'bf\'f8\'b0\'a1\'c0\'d4
+\f2  
+\f3 \'c7\'d8\'c1\'f6\'bd\'c3\'b1\'ee\'c1\'f6
+\f2 , 
+\f3 \'b4\'d9\'b8\'b8
+\f2  
+\f3 \'c3\'a4\'b1\'c7
+\f2 \uc0\u8228 
+\f3 \'c3\'a4\'b9\'ab\'b0\'fc\'b0\'e8
+\f2  
+\f3 \'c0\'dc\'c1\'b8\'bd\'c3\'bf\'a1\'b4\'c2
+\f2  
+\f3 \'c7\'d8\'b4\'e7
+\f2  
+\f3 \'c3\'a4\'b1\'c7
+\f2 \uc0\u8228 
+\f3 \'c3\'a4\'b9\'ab\'b0\'fc\'b0\'e8
+\f2  
+\f3 \'c1\'a4\'bb\'ea\'bd\'c3\'b1\'ee\'c1\'f6
+\f2 \
+- 
+\f3 \'c0\'fc\'c0\'da\'bb\'f3\'b0\'c5\'b7\'a1\'bf\'a1\'bc\'ad\'c0\'c7
+\f2  
+\f3 \'b0\'e8\'be\'e0
+\f2 \uc0\u8228 
+\f3 \'c3\'bb\'be\'e0\'c3\'b6\'c8\'b8
+\f2 , 
+\f3 \'b4\'eb\'b1\'dd\'b0\'e1\'c1\'a6
+\f2 , 
+\f3 \'c0\'e7\'c8\'ad
+\f2  
+\f3 \'b5\'ee
+\f2  
+\f3 \'b0\'f8\'b1\'de\'b1\'e2\'b7\'cf
+\f2  : 6
+\f3 \'b0\'b3\'bf\'f9
+\f2 \
+\uc0\u8203 \
+\uc0\u8203 \
+
+\f0\b 3. 
+\f1 \'c1\'a4\'ba\'b8\'c1\'d6\'c3\'bc\'bf\'cd
+\f0  
+\f1 \'b9\'fd\'c1\'a4\'b4\'eb\'b8\'ae\'c0\'ce\'c0\'c7
+\f0  
+\f1 \'b1\'c7\'b8\'ae
+\f0 \'b7
+\f1 \'c0\'c7\'b9\'ab
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'b1\'d7
+\f0  
+\f1 \'c7\'e0\'bb\'e7\'b9\'e6\'b9\'fd
+\f0  
+\f1 \'c0\'cc\'bf\'eb\'c0\'da\'b4\'c2
+\f0  
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c1\'d6\'c3\'bc\'b7\'ce\'bd\'e1
+\f0  
+\f1 \'b4\'d9\'c0\'bd\'b0\'fa
+\f0  
+\f1 \'b0\'b0\'c0\'ba
+\f0  
+\f1 \'b1\'c7\'b8\'ae\'b8\'a6
+\f0  
+\f1 \'c7\'e0\'bb\'e7\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .
+\f2\b0 \
+
+\f3 \'a8\'e7
+\f2  
+\f3 \'c1\'a4\'ba\'b8\'c1\'d6\'c3\'bc\'b4\'c2
+\f2  The Game Shop 
+\f3 \'bf\'a1
+\f2  
+\f3 \'b4\'eb\'c7\'d8
+\f2  
+\f3 \'be\'f0\'c1\'a6\'b5\'e7\'c1\'f6
+\f2  
+\f3 \'b4\'d9\'c0\'bd
+\f2  
+\f3 \'b0\'a2
+\f2  
+\f3 \'c8\'a3\'c0\'c7
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'ba\'b8\'c8\'a3
+\f2  
+\f3 \'b0\'fc\'b7\'c3
+\f2  
+\f3 \'b1\'c7\'b8\'ae\'b8\'a6
+\f2  
+\f3 \'c7\'e0\'bb\'e7\'c7\'d2
+\f2  
+\f3 \'bc\'f6
+\f2  
+\f3 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+1. 
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'bf\'ad\'b6\'f7\'bf\'e4\'b1\'b8
+\f2 \
+2. 
+\f3 \'bf\'c0\'b7\'f9
+\f2  
+\f3 \'b5\'ee\'c0\'cc
+\f2  
+\f3 \'c0\'d6\'c0\'bb
+\f2  
+\f3 \'b0\'e6\'bf\'ec
+\f2  
+\f3 \'c1\'a4\'c1\'a4
+\f2  
+\f3 \'bf\'e4\'b1\'b8
+\f2 \
+3. 
+\f3 \'bb\'e8\'c1\'a6\'bf\'e4\'b1\'b8
+\f2 \
+4. 
+\f3 \'c3\'b3\'b8\'ae\'c1\'a4\'c1\'f6
+\f2  
+\f3 \'bf\'e4\'b1\'b8
+\f2 \
+\uc0\u8203 \
+\uc0\u8203 \
+
+\f0\b 4. 
+\f1 \'c3\'b3\'b8\'ae\'c7\'cf\'b4\'c2
+\f0  
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f0  
+\f1 \'c7\'d7\'b8\'f1
+\f0  
+\f1 \'c0\'db\'bc\'ba
+\f0  
+\f2\b0 \
+\uc0\u8203 \
+\pard\pardeftab720\partightenfactor0
+
+\f3 \cf4 \'a8\'e7
+\f2  'The Game Shop'
+\f3 \'c0\'c7
+\f2  
+\f3 \'be\'ee\'c7\'c3\'b8\'ae\'c4\'c9\'c0\'cc\'bc\'c7\'c0\'ba
+\f2  
+\f3 \'b4\'d9\'c0\'bd\'c0\'c7
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'c7\'d7\'b8\'f1\'c0\'bb
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+\pard\pardeftab720\partightenfactor0
+\cf2 1<
+\f3 \'b0\'b3\'c0\'ce\'c0\'c7
+\f2  
+\f3 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6
+\f2  
+\f3 \'c0\'fa\'c0\'e5\'c7\'cf\'b1\'e2\'c0\'a7\'c7\'d8
+\f2  
+\f3 \'b4\'d9\'c0\'bd
+\f2  
+\f3 \'c1\'a4\'ba\'b8\'b8\'a6
+\f2  
+\f3 \'bb\'e7\'bf\'eb\'c7\'d5\'b4\'cf\'b4\'d9
+\f2 .>\
+- 
+\f3 \'c7\'ca\'bc\'f6\'c7\'d7\'b8\'f1
+\f2  : 
+\f3 \'c0\'cc\'b8\'de\'c0\'cf
+\f2 , 
+\f3 \'ba\'f1\'b9\'d0\'b9\'f8\'c8\'a3
+\f2 , 
+\f3 \'b7\'ce\'b1\'d7\'c0\'ce
+\f2 ID\
+- 
+\f3 \'bc\'b1\'c5\'c3\'c7\'d7\'b8\'f1
+\f2  :\
+\uc0\u8203 \
+2<
+\f3 \'b4\'f5
+\f2  
+\f3 \'b3\'aa\'c0\'ba
+\f2  
+\f3 \'bc\'ad\'ba\'f1\'bd\'ba
+\f2  
+\f3 \'c1\'a6\'b0\'f8\'c0\'bb
+\f2  
+\f3 \'c0\'a7\'c7\'d8
+\f2  
+\f3 \'b4\'d9\'c0\'bd
+\f2  
+\f3 \'c7\'d7\'b8\'f1\'c0\'bb
+\f2  
+\f3 \'bb\'e7\'bf\'eb\'c7\'d5\'b4\'cf\'b4\'d9
+\f2 .>\
+- 
+\f3 \'c7\'ca\'bc\'f6\'c7\'d7\'b8\'f1
+\f2  : 
+\f3 \'bc\'ad\'ba\'f1\'bd\'ba
+\f2  
+\f3 \'c0\'cc\'bf\'eb
+\f2  
+\f3 \'b1\'e2\'b7\'cf
+\f2 , 
+\f3 \'c1\'a2\'bc\'d3
+\f2  
+\f3 \'b7\'ce\'b1\'d7
+\f2 , 
+\f3 \'c1\'a2\'bc\'d3
+\f2  IP 
+\f3 \'c1\'a4\'ba\'b8
+\f2 , 
+\f3 \'b0\'e1\'c1\'a6\'b1\'e2\'b7\'cf
+\f2 \
+- 
+\f3 \'bc\'b1\'c5\'c3\'c7\'d7\'b8\'f1
+\f2  :\
+\uc0\u8203 \
+\uc0\u8203 \
+\uc0\u8203 \
+
+\f0\b 5. 
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f0  
+\f1 \'c6\'c4\'b1\'e2
+\f0  The Game Shop 
+\f1 \'b4\'c2
+\f0  
+\f1 \'bf\'f8\'c4\'a2\'c0\'fb\'c0\'b8\'b7\'ce
+\f0  
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f0  
+\f1 \'c3\'b3\'b8\'ae\'b8\'f1\'c0\'fb\'c0\'cc
+\f0  
+\f1 \'b4\'de\'bc\'ba\'b5\'c8
+\f0  
+\f1 \'b0\'e6\'bf\'ec\'bf\'a1\'b4\'c2
+\f0  
+\f1 \'c1\'f6\'c3\'bc\'be\'f8\'c0\'cc
+\f0  
+\f1 \'c7\'d8\'b4\'e7
+\f0  
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b8\'a6
+\f0  
+\f1 \'c6\'c4\'b1\'e2\'c7\'d5\'b4\'cf\'b4\'d9
+\f0 . 
+\f1 \'c6\'c4\'b1\'e2\'c0\'c7
+\f0  
+\f1 \'c0\'fd\'c2\'f7
+\f0 , 
+\f1 \'b1\'e2\'c7\'d1
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'b9\'e6\'b9\'fd\'c0\'ba
+\f0  
+\f1 \'b4\'d9\'c0\'bd\'b0\'fa
+\f0  
+\f1 \'b0\'b0\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .
+\f2\b0 \
+-
+\f3 \'c6\'c4\'b1\'e2\'c0\'fd\'c2\'f7
+\f2 \
+
+\f3 \'c0\'cc\'bf\'eb\'c0\'da\'b0\'a1
+\f2  
+\f3 \'c0\'d4\'b7\'c2\'c7\'d1
+\f2  
+\f3 \'c1\'a4\'ba\'b8\'b4\'c2
+\f2  
+\f3 \'b8\'f1\'c0\'fb
+\f2  
+\f3 \'b4\'de\'bc\'ba
+\f2  
+\f3 \'c8\'c4
+\f2  
+\f3 \'ba\'b0\'b5\'b5\'c0\'c7
+\f2  DB
+\f3 \'bf\'a1
+\f2  
+\f3 \'bf\'c5\'b0\'dc\'c1\'ae
+\f2 (
+\f3 \'c1\'be\'c0\'cc\'c0\'c7
+\f2  
+\f3 \'b0\'e6\'bf\'ec
+\f2  
+\f3 \'ba\'b0\'b5\'b5\'c0\'c7
+\f2  
+\f3 \'bc\'ad\'b7\'f9
+\f2 ) 
+\f3 \'b3\'bb\'ba\'ce
+\f2  
+\f3 \'b9\'e6\'c4\'a7
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'b1\'e2\'c5\'b8
+\f2  
+\f3 \'b0\'fc\'b7\'c3
+\f2  
+\f3 \'b9\'fd\'b7\'c9\'bf\'a1
+\f2  
+\f3 \'b5\'fb\'b6\'f3
+\f2  
+\f3 \'c0\'cf\'c1\'a4\'b1\'e2\'b0\'a3
+\f2  
+\f3 \'c0\'fa\'c0\'e5\'b5\'c8
+\f2  
+\f3 \'c8\'c4
+\f2  
+\f3 \'c8\'a4\'c0\'ba
+\f2  
+\f3 \'c1\'ef\'bd\'c3
+\f2  
+\f3 \'c6\'c4\'b1\'e2\'b5\'cb\'b4\'cf\'b4\'d9
+\f2 . 
+\f3 \'c0\'cc
+\f2  
+\f3 \'b6\'a7
+\f2 , DB
+\f3 \'b7\'ce
+\f2  
+\f3 \'bf\'c5\'b0\'dc\'c1\'f8
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b4\'c2
+\f2  
+\f3 \'b9\'fd\'b7\'fc\'bf\'a1
+\f2  
+\f3 \'c0\'c7\'c7\'d1
+\f2  
+\f3 \'b0\'e6\'bf\'ec\'b0\'a1
+\f2  
+\f3 \'be\'c6\'b4\'cf\'b0\'ed\'bc\'ad\'b4\'c2
+\f2  
+\f3 \'b4\'d9\'b8\'a5
+\f2  
+\f3 \'b8\'f1\'c0\'fb\'c0\'b8\'b7\'ce
+\f2  
+\f3 \'c0\'cc\'bf\'eb\'b5\'c7\'c1\'f6
+\f2  
+\f3 \'be\'ca\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+-
+\f3 \'c6\'c4\'b1\'e2\'b1\'e2\'c7\'d1
+\f2 \
+
+\f3 \'c0\'cc\'bf\'eb\'c0\'da\'c0\'c7
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b4\'c2
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f2  
+\f3 \'ba\'b8\'c0\'af\'b1\'e2\'b0\'a3\'c0\'cc
+\f2  
+\f3 \'b0\'e6\'b0\'fa\'b5\'c8
+\f2  
+\f3 \'b0\'e6\'bf\'ec\'bf\'a1\'b4\'c2
+\f2  
+\f3 \'ba\'b8\'c0\'af\'b1\'e2\'b0\'a3\'c0\'c7
+\f2  
+\f3 \'c1\'be\'b7\'e1\'c0\'cf\'b7\'ce\'ba\'ce\'c5\'cd
+\f2  5
+\f3 \'c0\'cf
+\f2  
+\f3 \'c0\'cc\'b3\'bb\'bf\'a1
+\f2 , 
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f2  
+\f3 \'c3\'b3\'b8\'ae
+\f2  
+\f3 \'b8\'f1\'c0\'fb
+\f2  
+\f3 \'b4\'de\'bc\'ba
+\f2 , 
+\f3 \'c7\'d8\'b4\'e7
+\f2  
+\f3 \'bc\'ad\'ba\'f1\'bd\'ba\'c0\'c7
+\f2  
+\f3 \'c6\'f3\'c1\'f6
+\f2 , 
+\f3 \'bb\'e7\'be\'f7\'c0\'c7
+\f2  
+\f3 \'c1\'be\'b7\'e1
+\f2  
+\f3 \'b5\'ee
+\f2  
+\f3 \'b1\'d7
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b0\'a1
+\f2  
+\f3 \'ba\'d2\'c7\'ca\'bf\'e4\'c7\'cf\'b0\'d4
+\f2  
+\f3 \'b5\'c7\'be\'fa\'c0\'bb
+\f2  
+\f3 \'b6\'a7\'bf\'a1\'b4\'c2
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'b0\'a1
+\f2  
+\f3 \'ba\'d2\'c7\'ca\'bf\'e4\'c7\'d1
+\f2  
+\f3 \'b0\'cd\'c0\'b8\'b7\'ce
+\f2  
+\f3 \'c0\'ce\'c1\'a4\'b5\'c7\'b4\'c2
+\f2  
+\f3 \'b3\'af\'b7\'ce\'ba\'ce\'c5\'cd
+\f2  5
+\f3 \'c0\'cf
+\f2  
+\f3 \'c0\'cc\'b3\'bb\'bf\'a1
+\f2  
+\f3 \'b1\'d7
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b8\'a6
+\f2  
+\f3 \'c6\'c4\'b1\'e2\'c7\'d5\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+\uc0\u8203 \
+
+\f0\b 6. 
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f0  
+\f1 \'c0\'da\'b5\'bf
+\f0  
+\f1 \'bc\'f6\'c1\'fd
+\f0  
+\f1 \'c0\'e5\'c4\'a1\'c0\'c7
+\f0  
+\f1 \'bc\'b3\'c4\'a1
+\f0 \'95
+\f1 \'bf\'ee\'bf\'b5
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'b0\'c5\'ba\'ce\'bf\'a1
+\f0  
+\f1 \'b0\'fc\'c7\'d1
+\f0  
+\f1 \'bb\'e7\'c7\'d7
+\f2\b0 \
+The Game Shop 
+\f3 \'c0\'ba
+\f2  
+\f3 \'c1\'a4\'ba\'b8\'c1\'d6\'c3\'bc\'c0\'c7
+\f2  
+\f3 \'c0\'cc\'bf\'eb\'c1\'a4\'ba\'b8\'b8\'a6
+\f2  
+\f3 \'c0\'fa\'c0\'e5\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'bc\'f6\'bd\'c3\'b7\'ce
+\f2  
+\f3 \'ba\'d2\'b7\'af\'bf\'c0\'b4\'c2
+\f2  \'91
+\f3 \'c4\'ed\'c5\'b0
+\f2 \'92
+\f3 \'b8\'a6
+\f2  
+\f3 \'bb\'e7\'bf\'eb\'c7\'cf\'c1\'f6
+\f2  
+\f3 \'be\'ca\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+
+\f0\b 7. 
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f0  
+\f1 \'ba\'b8\'c8\'a3\'c3\'a5\'c0\'d3\'c0\'da
+\f0  
+\f1 \'c0\'db\'bc\'ba
+\f2\b0 \
+\uc0\u8203 \
+
+\f3 \'a8\'e7
+\f2  The Game Shop 
+\f3 \'c0\'ba
+\f2 (
+\f3 \'b4\'c2
+\f2 ) 
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'bf\'a1
+\f2  
+\f3 \'b0\'fc\'c7\'d1
+\f2  
+\f3 \'be\'f7\'b9\'ab\'b8\'a6
+\f2  
+\f3 \'c3\'d1\'b0\'fd\'c7\'d8\'bc\'ad
+\f2  
+\f3 \'c3\'a5\'c0\'d3\'c1\'f6\'b0\'ed
+\f2 , 
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'bf\'cd
+\f2  
+\f3 \'b0\'fc\'b7\'c3\'c7\'d1
+\f2  
+\f3 \'c1\'a4\'ba\'b8\'c1\'d6\'c3\'bc\'c0\'c7
+\f2  
+\f3 \'ba\'d2\'b8\'b8\'c3\'b3\'b8\'ae
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'c7\'c7\'c7\'d8\'b1\'b8\'c1\'a6
+\f2  
+\f3 \'b5\'ee\'c0\'bb
+\f2  
+\f3 \'c0\'a7\'c7\'cf\'bf\'a9
+\f2  
+\f3 \'be\'c6\'b7\'a1\'bf\'cd
+\f2  
+\f3 \'b0\'b0\'c0\'cc
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'ba\'b8\'c8\'a3\'c3\'a5\'c0\'d3\'c0\'da\'b8\'a6
+\f2  
+\f3 \'c1\'f6\'c1\'a4\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+\pard\pardeftab720\partightenfactor0
+
+\f4 \cf2 \uc0\u9654 
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'ba\'b8\'c8\'a3\'c3\'a5\'c0\'d3\'c0\'da
+\f2  \
+\pard\pardeftab720\partightenfactor0
+
+\f3 \cf2 \'bc\'ba\'b8\'ed
+\f2  :
+\f3 \'b0\'ad\'c2\'f9\'bc\'d6
+\f2 \
+
+\f3 \'c1\'f7\'c3\'a5
+\f2  :
+\f3 \'b0\'b3\'c0\'ce\'bb\'e7\'be\'f7\'c0\'da
+\f2 \
+
+\f3 \'c1\'f7\'b1\'de
+\f2  :
+\f3 \'b0\'b3\'c0\'ce\'bb\'e7\'be\'f7\'c0\'da
+\f2 \
+
+\f3 \'bf\'ac\'b6\'f4\'c3\'b3
+\f2  : cwk5247@gmail.com \
+\uc0\u8251  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'ba\'b8\'c8\'a3
+\f2  
+\f3 \'b4\'e3\'b4\'e7\'ba\'ce\'bc\'ad\'b7\'ce
+\f2  
+\f3 \'bf\'ac\'b0\'e1\'b5\'cb\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+
+\f3 \'a8\'e8
+\f2  
+\f3 \'c1\'a4\'ba\'b8\'c1\'d6\'c3\'bc\'b2\'b2\'bc\'ad\'b4\'c2
+\f2  The Game Shop 
+\f3 \'c0\'c7
+\f2  
+\f3 \'bc\'ad\'ba\'f1\'bd\'ba
+\f2 (
+\f3 \'b6\'c7\'b4\'c2
+\f2  
+\f3 \'bb\'e7\'be\'f7
+\f2 )
+\f3 \'c0\'bb
+\f2  
+\f3 \'c0\'cc\'bf\'eb\'c7\'cf\'bd\'c3\'b8\'e9\'bc\'ad
+\f2  
+\f3 \'b9\'df\'bb\'fd\'c7\'d1
+\f2  
+\f3 \'b8\'f0\'b5\'e7
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'ba\'b8\'c8\'a3
+\f2  
+\f3 \'b0\'fc\'b7\'c3
+\f2  
+\f3 \'b9\'ae\'c0\'c7
+\f2 , 
+\f3 \'ba\'d2\'b8\'b8\'c3\'b3\'b8\'ae
+\f2 , 
+\f3 \'c7\'c7\'c7\'d8\'b1\'b8\'c1\'a6
+\f2  
+\f3 \'b5\'ee\'bf\'a1
+\f2  
+\f3 \'b0\'fc\'c7\'d1
+\f2  
+\f3 \'bb\'e7\'c7\'d7\'c0\'bb
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'ba\'b8\'c8\'a3\'c3\'a5\'c0\'d3\'c0\'da
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'b4\'e3\'b4\'e7\'ba\'ce\'bc\'ad\'b7\'ce
+\f2  
+\f3 \'b9\'ae\'c0\'c7\'c7\'cf\'bd\'c7
+\f2  
+\f3 \'bc\'f6
+\f2  
+\f3 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 . The Game Shop
+\f3 \'b4\'c2
+\f2  
+\f3 \'c1\'a4\'ba\'b8\'c1\'d6\'c3\'bc\'c0\'c7
+\f2  
+\f3 \'b9\'ae\'c0\'c7\'bf\'a1
+\f2  
+\f3 \'b4\'eb\'c7\'d8
+\f2  
+\f3 \'c1\'f6\'c3\'bc
+\f2  
+\f3 \'be\'f8\'c0\'cc
+\f2  
+\f3 \'b4\'e4\'ba\'af
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'c7\'d8\'b5\'e5\'b8\'b1
+\f2  
+\f3 \'b0\'cd\'c0\'d4\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+\uc0\u8203 \
+
+\f0\b 8. 
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f0  
+\f1 \'c3\'b3\'b8\'ae\'b9\'e6\'c4\'a7
+\f0  
+\f1 \'ba\'af\'b0\'e6
+\f2\b0 \
+
+\f3 \'a8\'e7\'c0\'cc
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c3\'b3\'b8\'ae\'b9\'e6\'c4\'a7\'c0\'ba
+\f2  
+\f3 \'bd\'c3\'c7\'e0\'c0\'cf\'b7\'ce\'ba\'ce\'c5\'cd
+\f2  
+\f3 \'c0\'fb\'bf\'eb\'b5\'c7\'b8\'e7
+\f2 , 
+\f3 \'b9\'fd\'b7\'c9
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'b9\'e6\'c4\'a7\'bf\'a1
+\f2  
+\f3 \'b5\'fb\'b8\'a5
+\f2  
+\f3 \'ba\'af\'b0\'e6\'b3\'bb\'bf\'eb\'c0\'c7
+\f2  
+\f3 \'c3\'df\'b0\'a1
+\f2 , 
+\f3 \'bb\'e8\'c1\'a6
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'c1\'a4\'c1\'a4\'c0\'cc
+\f2  
+\f3 \'c0\'d6\'b4\'c2
+\f2  
+\f3 \'b0\'e6\'bf\'ec\'bf\'a1\'b4\'c2
+\f2  
+\f3 \'ba\'af\'b0\'e6\'bb\'e7\'c7\'d7\'c0\'c7
+\f2  
+\f3 \'bd\'c3\'c7\'e0
+\f2  7
+\f3 \'c0\'cf
+\f2  
+\f3 \'c0\'fc\'ba\'ce\'c5\'cd
+\f2  
+\f3 \'b0\'f8\'c1\'f6\'bb\'e7\'c7\'d7\'c0\'bb
+\f2  
+\f3 \'c5\'eb\'c7\'cf\'bf\'a9
+\f2  
+\f3 \'b0\'ed\'c1\'f6\'c7\'d2
+\f2  
+\f3 \'b0\'cd\'c0\'d4\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+\uc0\u8203 \
+
+\f0\b 9. 
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f0  
+\f1 \'be\'c8\'c0\'fc\'bc\'ba
+\f0  
+\f1 \'c8\'ae\'ba\'b8
+\f0  
+\f1 \'c1\'b6\'c4\'a1
+\f0  The Game Shop 
+\f1 \'b4\'c2
+\f0  
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'ba\'b8\'c8\'a3\'b9\'fd
+\f0  
+\f1 \'c1\'a6
+\f0 29
+\f1 \'c1\'b6\'bf\'a1
+\f0  
+\f1 \'b5\'fb\'b6\'f3
+\f0  
+\f1 \'b4\'d9\'c0\'bd\'b0\'fa
+\f0  
+\f1 \'b0\'b0\'c0\'cc
+\f0  
+\f1 \'be\'c8\'c0\'fc\'bc\'ba
+\f0  
+\f1 \'c8\'ae\'ba\'b8\'bf\'a1
+\f0  
+\f1 \'c7\'ca\'bf\'e4\'c7\'d1
+\f0  
+\f1 \'b1\'e2\'bc\'fa\'c0\'fb
+\f0 /
+\f1 \'b0\'fc\'b8\'ae\'c0\'fb
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'b9\'b0\'b8\'ae\'c0\'fb
+\f0  
+\f1 \'c1\'b6\'c4\'a1\'b8\'a6
+\f0  
+\f1 \'c7\'cf\'b0\'ed
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\uc0\u8203 
+\f2\b0 \
+1. 
+\f3 \'c1\'a4\'b1\'e2\'c0\'fb\'c0\'ce
+\f2  
+\f3 \'c0\'da\'c3\'bc
+\f2  
+\f3 \'b0\'a8\'bb\'e7
+\f2  
+\f3 \'bd\'c7\'bd\'c3
+\f2 \
+
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f2  
+\f3 \'c3\'eb\'b1\'de
+\f2  
+\f3 \'b0\'fc\'b7\'c3
+\f2  
+\f3 \'be\'c8\'c1\'a4\'bc\'ba
+\f2  
+\f3 \'c8\'ae\'ba\'b8\'b8\'a6
+\f2  
+\f3 \'c0\'a7\'c7\'d8
+\f2  
+\f3 \'c1\'a4\'b1\'e2\'c0\'fb
+\f2 (
+\f3 \'ba\'d0\'b1\'e2
+\f2  1
+\f3 \'c8\'b8
+\f2 )
+\f3 \'c0\'b8\'b7\'ce
+\f2  
+\f3 \'c0\'da\'c3\'bc
+\f2  
+\f3 \'b0\'a8\'bb\'e7\'b8\'a6
+\f2  
+\f3 \'bd\'c7\'bd\'c3\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+2. 
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c0\'c7
+\f2  
+\f3 \'be\'cf\'c8\'a3\'c8\'ad
+\f2 \
+
+\f3 \'c0\'cc\'bf\'eb\'c0\'da\'c0\'c7
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b4\'c2
+\f2  
+\f3 \'ba\'f1\'b9\'d0\'b9\'f8\'c8\'a3\'b4\'c2
+\f2  
+\f3 \'be\'cf\'c8\'a3\'c8\'ad
+\f2  
+\f3 \'b5\'c7\'be\'ee
+\f2  
+\f3 \'c0\'fa\'c0\'e5
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'b0\'fc\'b8\'ae\'b5\'c7\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'be\'ee
+\f2 , 
+\f3 \'ba\'bb\'c0\'ce\'b8\'b8\'c0\'cc
+\f2  
+\f3 \'be\'cb
+\f2  
+\f3 \'bc\'f6
+\f2  
+\f3 \'c0\'d6\'c0\'b8\'b8\'e7
+\f2  
+\f3 \'c1\'df\'bf\'e4\'c7\'d1
+\f2  
+\f3 \'b5\'a5\'c0\'cc\'c5\'cd\'b4\'c2
+\f2  
+\f3 \'c6\'c4\'c0\'cf
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'c0\'fc\'bc\'db
+\f2  
+\f3 \'b5\'a5\'c0\'cc\'c5\'cd\'b8\'a6
+\f2  
+\f3 \'be\'cf\'c8\'a3\'c8\'ad
+\f2  
+\f3 \'c7\'cf\'b0\'c5\'b3\'aa
+\f2  
+\f3 \'c6\'c4\'c0\'cf
+\f2  
+\f3 \'c0\'e1\'b1\'dd
+\f2  
+\f3 \'b1\'e2\'b4\'c9\'c0\'bb
+\f2  
+\f3 \'bb\'e7\'bf\'eb\'c7\'cf\'b4\'c2
+\f2  
+\f3 \'b5\'ee\'c0\'c7
+\f2  
+\f3 \'ba\'b0\'b5\'b5
+\f2  
+\f3 \'ba\'b8\'be\'c8\'b1\'e2\'b4\'c9\'c0\'bb
+\f2  
+\f3 \'bb\'e7\'bf\'eb\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+3. 
+\f3 \'c1\'a2\'bc\'d3\'b1\'e2\'b7\'cf\'c0\'c7
+\f2  
+\f3 \'ba\'b8\'b0\'fc
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'c0\'a7\'ba\'af\'c1\'b6
+\f2  
+\f3 \'b9\'e6\'c1\'f6
+\f2 \
+
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c3\'b3\'b8\'ae\'bd\'c3\'bd\'ba\'c5\'db\'bf\'a1
+\f2  
+\f3 \'c1\'a2\'bc\'d3\'c7\'d1
+\f2  
+\f3 \'b1\'e2\'b7\'cf\'c0\'bb
+\f2  
+\f3 \'c3\'d6\'bc\'d2
+\f2  6
+\f3 \'b0\'b3\'bf\'f9
+\f2  
+\f3 \'c0\'cc\'bb\'f3
+\f2  
+\f3 \'ba\'b8\'b0\'fc
+\f2 , 
+\f3 \'b0\'fc\'b8\'ae\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'c0\'b8\'b8\'e7
+\f2 , 
+\f3 \'c1\'a2\'bc\'d3
+\f2  
+\f3 \'b1\'e2\'b7\'cf\'c0\'cc
+\f2  
+\f3 \'c0\'a7\'ba\'af\'c1\'b6
+\f2  
+\f3 \'b9\'d7
+\f2  
+\f3 \'b5\'b5\'b3\'ad
+\f2 , 
+\f3 \'ba\'d0\'bd\'c7\'b5\'c7\'c1\'f6
+\f2  
+\f3 \'be\'ca\'b5\'b5\'b7\'cf
+\f2  
+\f3 \'ba\'b8\'be\'c8\'b1\'e2\'b4\'c9
+\f2  
+\f3 \'bb\'e7\'bf\'eb\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .\
+\uc0\u8203 \
+4. 
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'bf\'a1
+\f2  
+\f3 \'b4\'eb\'c7\'d1
+\f2  
+\f3 \'c1\'a2\'b1\'d9
+\f2  
+\f3 \'c1\'a6\'c7\'d1
+\f2 \
+
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'b8\'a6
+\f2  
+\f3 \'c3\'b3\'b8\'ae\'c7\'cf\'b4\'c2
+\f2  
+\f3 \'b5\'a5\'c0\'cc\'c5\'cd\'ba\'a3\'c0\'cc\'bd\'ba\'bd\'c3\'bd\'ba\'c5\'db\'bf\'a1
+\f2  
+\f3 \'b4\'eb\'c7\'d1
+\f2  
+\f3 \'c1\'a2\'b1\'d9\'b1\'c7\'c7\'d1\'c0\'c7
+\f2  
+\f3 \'ba\'ce\'bf\'a9
+\f2 ,
+\f3 \'ba\'af\'b0\'e6
+\f2 ,
+\f3 \'b8\'bb\'bc\'d2\'b8\'a6
+\f2  
+\f3 \'c5\'eb\'c7\'cf\'bf\'a9
+\f2  
+\f3 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'bf\'a1
+\f2  
+\f3 \'b4\'eb\'c7\'d1
+\f2  
+\f3 \'c1\'a2\'b1\'d9\'c5\'eb\'c1\'a6\'b8\'a6
+\f2  
+\f3 \'c0\'a7\'c7\'cf\'bf\'a9
+\f2  
+\f3 \'c7\'ca\'bf\'e4\'c7\'d1
+\f2  
+\f3 \'c1\'b6\'c4\'a1\'b8\'a6
+\f2  
+\f3 \'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'c0\'b8\'b8\'e7
+\f2  
+\f3 \'c4\'a7\'c0\'d4\'c2\'f7\'b4\'dc\'bd\'c3\'bd\'ba\'c5\'db\'c0\'bb
+\f2  
+\f3 \'c0\'cc\'bf\'eb\'c7\'cf\'bf\'a9
+\f2  
+\f3 \'bf\'dc\'ba\'ce\'b7\'ce\'ba\'ce\'c5\'cd\'c0\'c7
+\f2  
+\f3 \'b9\'ab\'b4\'dc
+\f2  
+\f3 \'c1\'a2\'b1\'d9\'c0\'bb
+\f2  
+\f3 \'c5\'eb\'c1\'a6\'c7\'cf\'b0\'ed
+\f2  
+\f3 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f2 .}
